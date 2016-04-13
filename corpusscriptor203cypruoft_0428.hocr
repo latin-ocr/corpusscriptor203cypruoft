@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptor203cypruoft/corpusscriptor203cypruoft_0428.png"; bbox 0 0 1838 3152; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 515 1304 1305 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 522 1304 1081 1349">
+     <span class='ocr_line' id='line_1_1' title="bbox 522 1304 1081 1349; baseline -0.009 -6"><span class='ocrx_word' id='word_1_1' title='bbox 522 1308 622 1343; x_wconf 88' lang='lat' dir='ltr'>W=</span> <span class='ocrx_word' id='word_1_2' title='bbox 637 1306 740 1341; x_wconf 82' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_3' title='bbox 757 1304 1081 1349; x_wconf 76' lang='lat' dir='ltr'>Wiirzeburgensis.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 515 1361 1305 1458">
+     <span class='ocr_line' id='line_1_2' title="bbox 515 1361 1305 1405; baseline -0.006 -5"><span class='ocrx_word' id='word_1_4' title='bbox 515 1365 553 1400; x_wconf 90' lang='lat' dir='ltr'><em>D</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 581 1380 624 1395; x_wconf 88' lang='lat'>=</span> <span class='ocrx_word' id='word_1_6' title='bbox 639 1364 743 1399; x_wconf 82' lang='lat' dir='ltr'><strong>codex</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 760 1363 944 1397; x_wconf 77' lang='lat' dir='ltr'>Parisinus</span> <span class='ocrx_word' id='word_1_8' title='bbox 962 1362 1090 1403; x_wconf 82' lang='lat'>13047;</span> <span class='ocrx_word' id='word_1_9' title='bbox 1116 1361 1160 1396; x_wconf 83' lang='lat' dir='ltr'>cf.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1178 1372 1210 1405; x_wconf 84' lang='lat' dir='ltr'>p.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1230 1361 1305 1395; x_wconf 82' lang='lat'><strong>186.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 516 1420 991 1458; baseline -0.011 0"><span class='ocrx_word' id='word_1_12' title='bbox 516 1424 566 1458; x_wconf 88' lang='lat' dir='ltr'><em>M</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 579 1438 622 1453; x_wconf 87' lang='lat'><strong><em>=</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 636 1421 743 1457; x_wconf 81' lang='lat' dir='ltr'><strong>codex</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 760 1420 991 1455; x_wconf 78' lang='lat' dir='ltr'>Monacensis.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 517 1477 1042 1522">
+     <span class='ocr_line' id='line_1_4' title="bbox 517 1477 1042 1522; baseline -0.01 -6"><span class='ocrx_word' id='word_1_16' title='bbox 517 1481 553 1516; x_wconf 92' lang='lat' dir='ltr'><em>B</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 577 1495 619 1511; x_wconf 66' lang='grc' dir='ltr'>,τ</span> <span class='ocrx_word' id='word_1_18' title='bbox 634 1479 739 1514; x_wconf 81' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_19' title='bbox 756 1477 1042 1522; x_wconf 77' lang='lat' dir='ltr'>Bambergensis.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 522 1535 977 1573">
+     <span class='ocr_line' id='line_1_5' title="bbox 522 1535 977 1573; baseline -0.009 0"><span class='ocrx_word' id='word_1_20' title='bbox 522 1539 557 1573; x_wconf 94' lang='lat' dir='ltr'><strong><em>V</em></strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 576 1553 618 1568; x_wconf 67' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_22' title='bbox 634 1536 738 1571; x_wconf 80' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_23' title='bbox 755 1535 977 1569; x_wconf 81' lang='lat' dir='ltr'>Veronensis,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1815 3108 1831 3152">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1815 3108 1831 3152">
+     <span class='ocr_line' id='line_1_6' title="bbox 1815 3108 1831 3152; textangle 90"><span class='ocrx_word' id='word_1_24' title='bbox 1815 3108 1831 3152; x_wconf 59' lang='lat' dir='ltr'>k..</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

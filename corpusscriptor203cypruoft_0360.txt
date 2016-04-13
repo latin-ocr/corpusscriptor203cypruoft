@@ -1,0 +1,8 @@
+S = codex Seguierianus 3 desum c. 1 -— c. 2 et c. 17 — o. 26.
+W Ξ codex Wiirzeburgensis.
+R Ξ codex Regincnsis.
+M z codex Monacensis.
+B :- codex Bambergensis.
+V z codex Veronensis.
+MR ad recensenda ea quae in S desunt adhibui.
+

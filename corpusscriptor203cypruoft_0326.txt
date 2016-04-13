@@ -1,0 +1,8 @@
+S = codex Seguierianus3 deest in eo praefatio et c. 1-4 p. 325, 4.
+= codex Wiirzeburgensis.
+R = codex ReginensiS.
+M = codex Monacensis.
+B z codex Bambergensis.
+V = codex Veronensis.
+Codices MR ad recensenda ea quae in S desunt adhibui.
+
